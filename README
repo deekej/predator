@@ -1,3 +1,25 @@
+This repository contains all the changes done during the work on the bachelor
+thesis of David Kašpar (aka Dee'Kej):
+
+    Extension of the Code Listener Infrastructure Adding C++ Support
+
+This repository is in the state after the thesis was finished and there will be
+no more development here. In other words, it is a freezed repository in order
+to provide a reference to the thesis itself.
+
+However, the development of the Code Listener infrastructure itself has not been
+stopped -- it continues in this forked repository:
+
+    https://github.com/deekej/code-listener
+
+To visit the upstream repository, please follow the link:
+
+    https://github.com/kdudka/predator
+
+NOTE: The development has been started for the GCC version 4.5.0. Newer versions
+      tend to be more stricter in some ways, therefore you might see some
+      warnings/error during the compilation of the Code Listener.
+
 Predator and Forester
 =====================
 Predator is a tool for automated formal verification of sequential C programs
